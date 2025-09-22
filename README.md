@@ -1,4 +1,4 @@
-# OFDM-leaing
+# OFDM-learning
 
 # I. Introduction
 This is a place to record the note I learing the OFDM system.  
